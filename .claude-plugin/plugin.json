@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Persistent memory across Cowork sessions — automatically saves session summaries and recalls relevant context at startup.",
   "author": {
-    "name": "ghost"
+    "name": "kedam0no"
   },
+  "repository": "https://github.com/kedam0no/cowork-memory",
   "license": "MIT",
   "keywords": ["memory", "persistence", "context", "sessions"]
 }
